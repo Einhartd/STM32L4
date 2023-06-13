@@ -1,0 +1,10 @@
+main.c:73:5:__io_putchar	2
+main.c:85:7:calc_pwm	1
+main.c:97:5:main	10
+main.c:207:6:SystemClock_Config	4
+main.c:258:13:MX_ADC1_Init	7
+main.c:356:13:MX_TIM3_Init	7
+main.c:419:13:MX_USART2_UART_Init	2
+main.c:452:13:MX_DMA_Init	1
+main.c:465:13:MX_GPIO_Init	1
+main.c:486:6:Error_Handler	1
