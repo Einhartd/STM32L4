@@ -1,0 +1,8 @@
+main.c:69:5:__io_putchar	2
+main.c:80:6:HAL_SPI_TxCpltCallback	2
+main.c:113:6:measure_potentiometers	1
+main.c:118:11:calc_ball_position	5
+main.c:145:6:draw_ball_scene	1
+main.c:156:5:main	1
+main.c:232:6:SystemClock_Config	4
+main.c:286:6:Error_Handler	1

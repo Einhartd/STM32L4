@@ -1,0 +1,10 @@
+lcd.c:38:13:lcd_cmd	1
+lcd.c:47:13:lcd_data	1
+lcd.c:56:13:lcd_send	2
+lcd.c:69:6:lcd_init	2
+lcd.c:92:13:lcd_data16	1
+lcd.c:110:13:lcd_set_window	1
+lcd.c:125:6:lcd_put_pixel	1
+lcd.c:130:6:lcd_copy	1
+lcd.c:139:6:lcd_transfer_done	1
+lcd.c:145:6:lcd_is_busy	2
